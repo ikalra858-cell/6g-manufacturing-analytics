@@ -1,0 +1,10 @@
+Network_Quality,Efficiency_Status,Mean_Percentage,Std_Percentage,Min_Percentage,Max_Percentage
+Low,High,3.04,0.77,1.62,4.97
+Low,Low,77.88,1.64,73.95,81.54
+Low,Medium,19.08,1.5,15.58,23.76
+Medium,High,2.92,0.72,1.56,4.61
+Medium,Low,77.76,1.79,72.92,81.95
+Medium,Medium,19.32,1.66,14.4,23.79
+High,High,3.0,0.8,1.63,5.39
+High,Low,77.84,1.94,72.64,82.88
+High,Medium,19.15,1.77,14.8,23.46

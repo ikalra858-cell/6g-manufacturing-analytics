@@ -1,0 +1,15 @@
+Metric,Final_Value
+Total observations,100000
+Number of machines,50
+Date range,2025-01-01 → 2025-03-10
+Mean latency (ms),25.5556
+Median latency (ms),25.536
+Mean packet loss (%),2.4934
+Median packet loss (%),2.488
+Low efficiency,"77,825 (77.83%)"
+Medium efficiency,"19,189 (19.19%)"
+High efficiency,"2,986 (2.99%)"
+Mean Network Stability Index,0.5001
+Latency Sensitivity Score,-0.00967
+Packet Loss Impact Ratio,1.5421
+Network-efficiency sensitivity finding,No distinct sensitivity zone identified

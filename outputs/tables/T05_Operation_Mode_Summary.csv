@@ -1,0 +1,4 @@
+Operation_Mode,Observation_Count,Latency_Mean_ms,Packet_Loss_Mean_pct,Production_Speed_Mean,Error_Rate_Mean,Defect_Rate_Mean
+Active,70054,25.54,2.49,276.2,7.49,5.01
+Idle,20057,25.64,2.5,274.13,7.52,5.01
+Maintenance,9889,25.5,2.48,277.54,7.54,5.0
